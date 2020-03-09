@@ -1,0 +1,5 @@
+{
+    "url": "https://aka.ms/downloadazcopy-v10-windows-32bit",
+    "version": "10.2.0",
+    "bin": "azcopy_windows_386_10.3.4\\azcopy.exe"
+}
